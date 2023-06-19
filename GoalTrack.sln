@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalTrack.Publisher", "GoalTrack.Publisher\GoalTrack.Publisher.csproj", "{ABA9E85E-1F5F-4FD0-A64C-0B1B7D0110AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalTrack.Consumer", "GoalTrack.Consumer\GoalTrack.Consumer.csproj", "{E86C6728-B9C3-4332-8D00-CF5D30D9D280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA9E85E-1F5F-4FD0-A64C-0B1B7D0110AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA9E85E-1F5F-4FD0-A64C-0B1B7D0110AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA9E85E-1F5F-4FD0-A64C-0B1B7D0110AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA9E85E-1F5F-4FD0-A64C-0B1B7D0110AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E86C6728-B9C3-4332-8D00-CF5D30D9D280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86C6728-B9C3-4332-8D00-CF5D30D9D280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86C6728-B9C3-4332-8D00-CF5D30D9D280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86C6728-B9C3-4332-8D00-CF5D30D9D280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

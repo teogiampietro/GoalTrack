@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQRRZDS7IthHfbvAy9U4riGq/PTAAlR2OuLI5eeJbl/XPeiGJHSVWRcDLxnZ/kFtgFmNdrnVP4CAXbhpD2jo+A==",
+  "success": true,
+  "projectFilePath": "/Users/tgiampietro/RiderProjects/GoalTrack/GoalTrack.Consumer/GoalTrack.Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/tgiampietro/.nuget/packages/awssdk.core/3.7.107.7/awssdk.core.3.7.107.7.nupkg.sha512",
+    "/Users/tgiampietro/.nuget/packages/awssdk.sqs/3.7.103.4/awssdk.sqs.3.7.103.4.nupkg.sha512"
+  ],
+  "logs": []
+}
